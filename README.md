@@ -11,8 +11,8 @@ Interactive Media Arts
 - Creative
 
 ### Photos
-[http://www.coroflot.com/AlicjaJader/portfolio]
+[Coroflot](http://www.coroflot.com/AlicjaJader/portfolio)
 ### Videos
-[https://vimeo.com/user46065982/videos/all]
+[Vimeo](https://vimeo.com/user46065982/videos/all)
 
 ### Programming
