@@ -1,4 +1,3 @@
-title: Alicja's Portfolio
 
 ## Alicja Jader // Portfolio+CV
 
