@@ -1,3 +1,5 @@
+title: Alicja's Portfolio
+
 ## Alicja Jader // Portfolio+CV
 
 NYU SHANGHAI 2017
